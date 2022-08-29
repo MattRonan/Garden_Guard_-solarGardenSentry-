@@ -1,4 +1,4 @@
-# Guarden_Guard
+# Garden_Guard
 
 ![GardenGuard_usbSide](https://user-images.githubusercontent.com/11184076/187273204-2e252ba4-2074-4cd9-ad85-7779352ef7b7.png)
 ![underUSB](https://user-images.githubusercontent.com/11184076/187309731-e34ce015-6e1c-4f58-84d6-128b76b820b9.png)
