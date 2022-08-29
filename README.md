@@ -1,5 +1,7 @@
 # Guarden_Guard
 
+![Untitled_2022-Aug-29_04-27-48AM-000_CustomizedView5555799637](https://user-images.githubusercontent.com/11184076/187237928-e2e59a84-dc86-40d6-8b33-a58ecac67900.png)
+
 A motion activated sentry designed to drop something noisy to deter birds and squirrels from getting into the garden and eating tomatoes.  Has a built in solar battery charger, PIR motion sensor input, photo transistor input, NCH circuit for powering a solenoid, and outputs to an H-Bridge to get a motor to drop a noisy thing and then spool it back up (where the solenoid locks it in place).  CPU is an ATTINY to be as small and low power as possible.
 
 ![GuardenGuard](https://user-images.githubusercontent.com/11184076/184261269-0d677602-0c44-46ab-bab9-4a42672bd5b1.png)
