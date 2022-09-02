@@ -16,12 +16,12 @@ Assembled board:
 
 ![guardenGuardBoardSMALL](https://user-images.githubusercontent.com/11184076/184395138-0c83d2e1-2b5a-462c-8167-2fa9a73ff2b2.jpg)
 
-orignal crude sketch
+orignal crude sketch.  Some metal junk, maybe pie pans, hang and when motion is detected with the unit armed they drop, then spool back up.
 
 ![GuardenGuardSketchSMALL](https://user-images.githubusercontent.com/11184076/188244686-e2393bc9-d5ac-4afc-8ca5-44a6697f0e06.jpg)
 
 
-basic hoisting setup:
+basic hoisting setup in Fusion.  Uses 3/8 pine and 1/4 maple stock:
 
 ![hoist gif](https://user-images.githubusercontent.com/11184076/188244074-d3d1dfa8-7443-428e-98d2-21f609ea4994.gif)
 
