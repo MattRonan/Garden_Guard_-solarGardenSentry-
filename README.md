@@ -13,6 +13,10 @@ Assembled board:
 
 Sketch of basic hoisting setup:
 
+
+
+https://user-images.githubusercontent.com/11184076/188243892-f6ffa325-56ec-4bf6-a50a-ca884576f23b.mp4
+
 ![GuardenGuardSketchSMALL](https://user-images.githubusercontent.com/11184076/184384309-4f526776-e545-4e46-845d-0c3ec96de4c4.jpg)
 
 Still a WIP since I never got around to building the hoisting mechanism.  Also in the end I just planted extra stuff outside the fence for animals so as to not be a tomato miser.  But it was a fun board to make.  
