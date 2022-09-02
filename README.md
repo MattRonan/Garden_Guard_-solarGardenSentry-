@@ -10,6 +10,9 @@ Assembled board:
 
 ![guardenGuardBoardSMALL](https://user-images.githubusercontent.com/11184076/184395138-0c83d2e1-2b5a-462c-8167-2fa9a73ff2b2.jpg)
 
+orignal crude sketch
+![GuardenGuardSketchSMALL](https://user-images.githubusercontent.com/11184076/188244686-e2393bc9-d5ac-4afc-8ca5-44a6697f0e06.jpg)
+
 
 basic hoisting setup:
 
