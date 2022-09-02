@@ -15,4 +15,4 @@ basic hoisting setup:
 
 ![hoist gif](https://user-images.githubusercontent.com/11184076/188244074-d3d1dfa8-7443-428e-98d2-21f609ea4994.gif)
 
-Still a WIP since I never got around to building the hoisting mechanism.  Also in the end I just planted extra stuff outside the fence for animals so as to not be a tomato miser.  But it was a fun board to make.  
+Still a WIP since I never got around to physically building the hoisting mechanism, and probably moreso because I realized I could just buy some netting and spare alot of small animals a heart attack.  Currently the board is instead enjoying its life as a a solar powered LED strip driver.
