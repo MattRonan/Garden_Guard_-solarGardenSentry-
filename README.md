@@ -6,8 +6,8 @@ A motion activated sentry designed to drop something noisy to deter birds and sq
 
 Designed to fit in a stock case because I didnt have a working 3D printer at the time
 
-
-![GardenGuardComposite](https://user-images.githubusercontent.com/11184076/187333456-da0ef606-056b-41c0-ad9d-78592fbd0458.png)
+![usbSideSolo](https://user-images.githubusercontent.com/11184076/188250116-e40ad27b-1261-46b9-abde-a047c4ed6fbb.png)
+![underSideSolo](https://user-images.githubusercontent.com/11184076/188250143-93ab6570-daf0-426c-93bc-9c2d57af3cd3.png)
 
 
 ![boardComposite](https://user-images.githubusercontent.com/11184076/187244971-b49dbe3a-346a-43d3-9ae6-97a04397ff17.png)
